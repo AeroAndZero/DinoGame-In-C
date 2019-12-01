@@ -7,3 +7,4 @@ Re-creation of that game you play on google chrome aka "offline dinosaur jumping
   - 'X' represents Barrier
 
 1 Spacebar Key Press can make the player jump 3 units.
+![](demo.gif)
